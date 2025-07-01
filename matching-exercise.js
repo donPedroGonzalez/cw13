@@ -18,7 +18,7 @@ function onPageLoad() {
         { left: "résolu", right: "hésitant", id: 3 },
         { left: "désordonné", right: "ordonné", id: 4 },
         { left: "optimiste", right: "pessimiste", id: 5 },
-        { left: "agréable", right: "déagréable", id: 6 },
+        { left: "agréable", right: "désagréable", id: 6 },
         { left: "cultivé", right: "inculte", id: 7 },
         { left: "prudent", right: "impulsif", id: 8 },
         { left: "distrait", right: "concentré", id: 9 }
