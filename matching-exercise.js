@@ -134,7 +134,8 @@ function addMatchingStyles() {
             text-align: center;
             margin-bottom: 20px;
             color:rgb(7, 7, 7);
-            font-size: 20px;
+            font-size: 24px;
+            font-family: 'Brush Script MT';
         }
         
         .match-item {
